@@ -31,7 +31,7 @@ directly on GitHub, the map will look blank. That's just a GitHub limitation —
 its notebook viewer doesn't run the map's code.
 
 To see the actual working map, click here instead:
-👉  https://-jnj-deutschlandticket-commute-analysis/
+👉   https://hardip19.github.io/-jnj-deutschlandticket-commute-analysis/
 
 On the map, you can see:
 - Where each synthetic employee "lives," color-coded by how likely they are to
